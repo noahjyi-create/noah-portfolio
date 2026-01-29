@@ -162,7 +162,7 @@ function FeatureRow({
   body,
   icon,
 }: {
-  col: "01/" | "02/" | "03/";
+  col: "01" | "02" | "03" | "01/" | "02/" | "03/";
   title: string;
   body: string;
   icon: React.ReactNode;
@@ -434,7 +434,7 @@ export default function Page() {
             <IconPanel
               icon={<Code2 className="h-5 w-5" />}
               title="Engineering"
-              body="Next.js, React, Node.js, APIs, Tailwind CSS, Python, JS"
+              body="Next.js, React, Node.js, APIs, Tailwind CSS, Python, JS."
             />
             <IconPanel
               icon={<Cpu className="h-5 w-5" />}
