@@ -259,9 +259,9 @@ const TIMELINE: TimelineEntry[] = [
   },
   {
     date: "2025-06",
-    title: "founderMatch",
-    desc: "Cross-university matching platform for student entrepreneurs and complementary co-founders.",
-    tags: ["Marketplace", "Product"],
+    title: "Correlation Matrix",
+    desc: "Assessing correlations of stocks in investment portfolios",
+    tags: ["Marketplace", "Invseting"],
     icon: <BriefcaseBusiness className="h-5 w-5" />,
   },
 
@@ -345,7 +345,7 @@ export default function Page() {
             <div className="lg:col-span-7">
               <SectionKicker>ABOUT</SectionKicker>
               <div className="mt-5 text-[#E9E6DF] font-semibold tracking-tight leading-[0.92] text-[44px] sm:text-[56px] md:text-[68px]">
-                Beep Boop
+                你好！
               </div>
               <MonoBody className="mt-20 max-w-3xl">
                 I’m an economics, cs, and finance student interested in investing and AI.
