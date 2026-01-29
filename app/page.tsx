@@ -701,7 +701,7 @@ export default function Page() {
               <Reveal delayMs={160}>
                 <div className="mt-8 flex flex-wrap items-center gap-4">
                   <a
-                    href="mailto:yinoah29@gmail.com"
+                    href="mailto:yi.noah.j@gmail.com"
                     className="inline-flex items-center justify-center gap-2 font-mono px-7 py-3 md:px-8 md:py-3.5
                                text-[12px] tracking-[0.24em] uppercase transition active:translate-y-[1px]
                                text-white border border-white/35 hover:border-white/60 bg-transparent hover:bg-white/[0.03]
